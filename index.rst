@@ -1,20 +1,17 @@
-----------------
-The B4Y Emp App
-----------------
+B4Y App |version| Documentation
+----------------------------
 
-.. note:: This repository is a **read-only subsplit** of a package that is part of the
-          Neos project (learn more on `www.neos.io <https://www.neos.io/>`_).
+Neos is a free enterprise web content management system licensed under the GPL.
 
-Neos is an open source Content Application Platform based on Flow. A set of
-core Content Management features is resting within a larger context that allows
-you to build a perfectly customized experience for your users.
+This version of the documentation covering B4Y App |release| has been rendered at: |today|
 
-If you want to use Neos, please have a look at the `Neos documentation
-<http://neos.readthedocs.org/en/stable/>`_
+.. toctree::
+   :maxdepth: 2
 
-Contribute
-----------
+   Client/index
+   Server/index
+   
+Indices and tables
+==================
 
-If you want to contribute to Neos, please have a look at
-https://github.com/neos/neos-development-collection - it is the repository
-used for development and all pull requests should go into it.
+* :ref:`genindex`
