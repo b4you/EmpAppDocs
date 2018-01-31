@@ -4,7 +4,7 @@
 Main Feed
 ====================
 
-.. figure:: ./Resources/Images/MainFeed.jpg
+.. figure:: ../Resources/Images/MainFeed.jpg
    :alt: Main Feed Screen
    :scale: 50 %
 
