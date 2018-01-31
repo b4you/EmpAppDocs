@@ -4,7 +4,7 @@
 Authentication
 ====================
 
-.. figure:: ./Resource/Images/Login.jpg
+.. figure:: ./Resources/Images/Login.jpg
    :alt: Login Screen
    :scale: 50 %
 
