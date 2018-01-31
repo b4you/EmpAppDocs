@@ -2,4 +2,4 @@
 user
 ==========
 
-the web admin group
+the web admin user
