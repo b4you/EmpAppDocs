@@ -1,4 +1,4 @@
-B4Y App |version| Documentation
+B4Y App
 ----------------------------
 
 Neos is a free enterprise web content management system licensed under the GPL.

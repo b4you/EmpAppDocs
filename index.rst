@@ -7,9 +7,9 @@ This version of the documentation covering B4Y App |release| has been rendered a
 
 .. toctree::
    :maxdepth: 2
-   
-   Server/index
+      
    Client/index
+   Server/index
    
 Indices and tables
 ==================
