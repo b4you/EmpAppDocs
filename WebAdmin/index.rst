@@ -6,10 +6,9 @@ B4Y App webadmin
 .. toctree::
 	:maxdepth: 2
 	
-    dashboard
-	user
-    group
-    category
-	config
-	appversion
-	
+    admin-dashboard
+	admin-user
+    admin-group
+    admin-category
+	admin-configuration
+	admin-app-version
