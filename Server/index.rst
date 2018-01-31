@@ -10,8 +10,3 @@ This version of the documentation covering B4Y App |release| has been rendered a
 
    gettingstarted/index
    APIs/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`

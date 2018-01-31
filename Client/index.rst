@@ -12,9 +12,4 @@ This version of the documentation covering B4Y App |release| has been rendered a
    MainFeed/index
    Search/index
    Profile/index
-   Post/index   
-   
-Indices and tables
-==================
-
-* :ref:`genindex`
+   Post/index
