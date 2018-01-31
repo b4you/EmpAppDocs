@@ -1,5 +1,5 @@
 API list
-========
+--------
 
 .. toctree::
 	:maxdepth: 1
