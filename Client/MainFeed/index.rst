@@ -21,7 +21,8 @@ This is the main screen after you login. All posts which are shared with you wil
    :scale: 50 %
 
 Main feed shows all posts by default. User can select to show post in single category.
-To open category list, click on filter button. 
+To open category list, click on filter button.
+
 
 .. figure:: ../Resources/Images/Filter.jpg
    :alt: Filter Dialog
