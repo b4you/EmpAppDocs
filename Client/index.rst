@@ -3,8 +3,8 @@ B4Y App |version| Documentation
 
 B4Y App is internal social network for all member of Business4You.
 
-.. figure:: ./Resources/Images/Overview.jpg
-   :alt: Filter Bar
+.. figure:: Resources/Images/Overview.png
+   :alt: Overview
    :scale: 25 %
 
 

@@ -12,7 +12,9 @@ This is the main screen after you login. All posts which are shared with you wil
 
 #. Filter bar
 #. Tab bar
-#. Post action.
+#. Post
+
+
 
 1. Filter bar
 -----------------------------
@@ -41,11 +43,31 @@ User can clear search result by clicking on search string  in filter bar or sele
    :alt: Search Result
    :scale: 50 %
 
+
 2. Tab bar 
 -----------------------------
 .. figure:: ../Resources/Images/TabBar.jpg
-   :alt: Filter Main Feed
+   :alt: Tab bar
    :scale: 50 %
 
 This is main navigation bar in application. User can navigation to other screens. The corresponding icon is highlight when navigate to screen.
 Tab tab also show number of unread notification. 
+
+.. figure:: ../Resources/Images/NotificationBadge.jpg
+   :alt: Notification number
+   :scale: 50 %
+
+
+When user is at screens contain list of post such as main feed or profile, user can scroll up by double-click on corresponding icon.
+
+
+3. Post 
+-----------------------------
+
+- Scroll up to load older post.If there aren't post in cache, application will get data from server, the loading icon will be show and dismiss when loading finish.
+- Scroll down at begin of list to refresh list and load new posts.
+
+.. figure:: ../Resources/Images/LoadingNewPost.jpg
+   :alt: Loading Post
+   :scale: 50 %
+
