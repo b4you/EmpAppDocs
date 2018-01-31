@@ -5,7 +5,7 @@ API list
 ========
 
 .. toctree::
-	:maxdepth: 1
+	:maxdepth: 2
 	
 	authentication
 	post
