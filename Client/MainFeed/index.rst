@@ -4,7 +4,7 @@
 Main Feed
 ====================
 
-.. figure:: ./Resource/Images/MainFeed.jpg
+.. figure:: ./Resources/Images/MainFeed.jpg
    :alt: Main Feed Screen
    :scale: 50 %
 
@@ -30,6 +30,19 @@ To open category list, click on filter button.
 
 The dialog will be closed after user select category. Main feed screen now shows post in seleced category. The text in filter bar will be catetory name.
 
-.. figure:: ../Resources/Images/Filter.jpg
-   :alt: Filter Dialog
+.. figure:: ../Resources/Images/Filter_MainFeed.jpg
+   :alt: Filter Main Feed
+   :scale: 50 %
+
+The filter bar  also indicates searching string which is used to search tags in search screen.
+User can clear search result by clicking on search string  in filter bar or selecting any item in filter dialog.  
+
+.. figure:: ../Resources/Images/Search_MainFeed.jpg
+   :alt: Search Result
+   :scale: 50 %
+
+2. Tab bar 
+
+.. figure:: ../Resources/Images/TabBar.jpg
+   :alt: Filter Main Feed
    :scale: 50 %
