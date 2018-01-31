@@ -1,4 +1,4 @@
-B4Y App |version| Documentation
+B4Y App server |version| Documentation 
 ----------------------------
 
 This version of the documentation covering B4Y App |release| has been rendered at: |today|
