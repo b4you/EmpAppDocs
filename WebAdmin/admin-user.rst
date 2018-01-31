@@ -1,5 +1,5 @@
 ===========
-admin user
+adminuser
 ===========
 
 the web admin user
