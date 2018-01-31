@@ -11,4 +11,4 @@ B4Y App webadmin
     admin-group
     admin-category
 	admin-configuration
-	admin-app-version
+	admin-appversion
