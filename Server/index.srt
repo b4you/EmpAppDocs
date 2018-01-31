@@ -1,3 +1,8 @@
+B4Y App |version| Documentation
+----------------------------
+
+This version of the documentation covering B4Y App |release| has been rendered at: |today|
+
 .. toctree::
    :maxdepth: 2
 
@@ -7,4 +12,4 @@
 Indices and tables
 ==================
 
-* :ref:`genindex
+* :ref:`genindex`
