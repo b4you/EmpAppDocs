@@ -1,8 +1,7 @@
 .. _webadmin:
 
-===========
-Backend app
-===========
+B4Y App webadmin
+--------------------------------------
 
 .. toctree::
 	:maxdepth: 2
