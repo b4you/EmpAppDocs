@@ -15,7 +15,7 @@ This is the main screen after you login. All posts which are shared with you wil
 #. Post action.
 
 1. Filter bar
-
+-----------------------------
 .. figure:: ../Resources/Images/Default_Filter_Bar.jpg
    :alt: Filter Bar
    :scale: 50 %
@@ -42,7 +42,10 @@ User can clear search result by clicking on search string  in filter bar or sele
    :scale: 50 %
 
 2. Tab bar 
-
+-----------------------------
 .. figure:: ../Resources/Images/TabBar.jpg
    :alt: Filter Main Feed
    :scale: 50 %
+
+This is main navigation bar in application. User can navigation to other screens. The corresponding icon is highlight when navigate to screen.
+Tab tab also show number of unread notification. 
