@@ -6,9 +6,10 @@ Neos is a free enterprise web content management system licensed under the GPL.
 This version of the documentation covering B4Y App |release| has been rendered at: |today|
 
 .. toctree::
-
-   Client/index
+   :maxdepth: 2
+   
    Server/index
+   Client/index
    
 Indices and tables
 ==================
