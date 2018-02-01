@@ -36,7 +36,7 @@ Fundamental Installation
 
             Just follow the `Prerequisites <http://sharp.dimens.io/en/stable/install/#prerequisites>`_ in the `link <http://sharp.dimens.io/en/stable/install/>`_
 
-#.  Setup and config active directory (AD) API.
+#.  Setup and config active directory (AD).
 
     User authentication will call AD API to verify all users when they are trying to login by mobile or website and users have a role base on AD Group. 
     So, the backend will connect to AD and get user account and user group. 
@@ -45,7 +45,8 @@ Fundamental Installation
 
     * Configuration in AD API:
 
-        AD API will check the ``clientId`` when is receive a request, if the ``clientId`` match with the Id in config file the request is validate. Otherwise, it will failed.
+        AD API will check the ``clientId`` when receiving a request, if the ``clientId`` match with the Id in config file the request is validate. Otherwise, it will failed.
+        
         In Web.config, at ``<appSettings>`` section, change ``clientId`` with whatever ``clientId`` you want.
 
         .. code-block:: apache
@@ -53,7 +54,7 @@ Fundamental Installation
 
     * Configuration AD in backend:
 
-        You just use the ``clientId`` in the AD API
+        Fill in all AD API infomation in the ``default.json`` of backend.
 
         .. code-block:: json
 
