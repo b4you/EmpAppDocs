@@ -1,4 +1,4 @@
-.. _webadmin:
+	.. _webadmin:
 
 B4Y App webadmin
 --------------------------------------
@@ -9,7 +9,7 @@ B4Y App webadmin
 	admin-introduction
 	admin-dashboard
 	admin-user
-    admin-group
-    admin-category
+        admin-group
+        admin-category
 	admin-configuration
 	admin-appversion
