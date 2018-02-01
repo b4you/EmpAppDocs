@@ -50,6 +50,7 @@ Fundamental Installation
         In Web.config, at ``<appSettings>`` section, change ``clientId`` with whatever ``clientId`` you want.
 
         .. code-block:: apache
+        
                 <add key="clientId" value="here is the key"/>
 
     * Configuration AD in backend:
