@@ -1,4 +1,4 @@
-.. _server
+.. _server:
 
 .. toctree::
    :maxdepth: 2
