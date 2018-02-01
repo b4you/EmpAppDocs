@@ -98,7 +98,9 @@ It is simply to configuration backend, there many sections in configuration file
 
     *   Database: the configuration for database server (MariaBD)
 
+
     *   ADSettings was mentioned above.
+
 
     *   AppVersion: When the mobile app has new release, it will be upload to the folder and user can install new version.
 
