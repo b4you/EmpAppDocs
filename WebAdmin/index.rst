@@ -6,6 +6,7 @@ B4Y App webadmin
 .. toctree::
 	:maxdepth: 2
 	
+	admin-introduction
     admin-dashboard
 	admin-user
     admin-group
