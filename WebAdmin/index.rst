@@ -7,7 +7,6 @@ B4Y App webadmin
 	:maxdepth: 2
 	
 	admin-introduction
-    admin-dashboard
 	admin-user
     admin-group
     admin-category
