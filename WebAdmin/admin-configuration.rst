@@ -1,5 +1,5 @@
 ====================
-admin configuration
+Configuration
 ====================
 
 the web admin configuration

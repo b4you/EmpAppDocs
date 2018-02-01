@@ -1,5 +1,5 @@
 ==========
-group
+Group
 ==========
 
 the web admin group

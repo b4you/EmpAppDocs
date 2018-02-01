@@ -1,5 +1,5 @@
 ==========
-category
+Category
 ==========
 
 the web admin category
