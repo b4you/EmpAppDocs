@@ -44,7 +44,7 @@ Fundamental Installation
 
     AD API run on internet infomation services (IIS). It is installed as normal website in IIS.
 
-    *       **Configuration in AD API:**
+    *   **Configuration in AD API:**
 
         AD API will check the ``clientId`` when receiving a request, if the ``clientId`` match with the Id in configuration file the request is validate. Otherwise, it will failed.
         
@@ -96,11 +96,11 @@ It is simply to configuration backend, there many sections in configuration file
                 Keep if as default if you don't want to change.
 
 
-    *   **Database: the configuration for database server (MariaBD)**
+    *   **Database:** the configuration for database server (MariaBD)
 
     *   **ADSettings was mentioned above.**
 
-    *   **AppVersion: When the mobile app has new release, it will be upload to the folder and user can install new version.**
+    *   **AppVersion:** When the mobile app has new release, it will be upload to the folder and user can install new version.
 
         **defaultName**: the intaller file name.
 
