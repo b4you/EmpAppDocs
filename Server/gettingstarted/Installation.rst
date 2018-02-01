@@ -93,7 +93,7 @@ It is simply to configuration backend, there many sections in configuration file
 
         .. tip::
 
-                Keep if as default if you don't want to change.
+                Keep it as default if you don't want to change.
 
 
     *   Database: the configuration for database server (MariaBD)
@@ -134,7 +134,7 @@ Start and restart
 
                     pm2 restart [index]
 
-    *[index]* can find by ``pm2 list``
+    *[index]* can find by ``pm2 list`` command.
 
     .. tip::
 
