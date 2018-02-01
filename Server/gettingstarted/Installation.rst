@@ -117,18 +117,18 @@ It is simply to configuration backend, there many sections in configuration file
                         }
 
 
-Start and restart 
------------------
+Start and restart backend
+-------------------------
 
-    After you have done all part. You are almost done. The last step is nunning it.
+    After you have done all parts above. You are almost done. The last step is running it.
 
-    Run the command to start the backend.
+    Execute the command to start the backend.
 
     .. code-block:: json
 
                     pm2 start index.json --name "backend service"
 
-    Run the command to restart the backend if need
+    Execute the command to restart the backend if need
 
     .. code-block:: json
 
