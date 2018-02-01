@@ -80,7 +80,7 @@ It is simply to configuration backend, there many sections in configuration file
 
         restAPIPort: the port of the backend.
 
-        loginExpire**: it is the time out of user. the default is 1 day.. You can select other.
+        loginExpire: it is the time out of user. the default is 1 day.. You can select other.
 
         .. code-block:: json
 
