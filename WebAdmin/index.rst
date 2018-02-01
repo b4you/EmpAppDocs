@@ -4,7 +4,7 @@ B4Y App webadmin
 --------------------------------------
 
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 10
 		
 	admin-introduction
 	admin-dashboard
