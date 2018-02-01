@@ -37,7 +37,7 @@ Fundamental Installation
 
             Just follow the `Prerequisites <http://sharp.dimens.io/en/stable/install/#prerequisites>`_ in the `link <http://sharp.dimens.io/en/stable/install/>`_
 
-#.  Setup and setup active directory (AD).
+#.  Setup active directory (AD).
 
     User authentication will call AD API to verify all users when they are trying to login by mobile or website. 
     So, the backend will connect to AD and get user account and user group. 
