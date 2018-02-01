@@ -67,8 +67,8 @@ Fundamental Installation
                                     "clientId": "here is the cliendId that define in AD API"
                                 }
 
-configuration and running backend
----------------------------------
+Configuration
+-------------
 
 Backend has 2 environment, one for testing environment and the other is production environment. It can enable or disable production in ``index.js``. Just comment out the code ``process.env.NODE_ENV = "production";`` to run it in testing environment.
 
@@ -82,7 +82,7 @@ It is simply to configuration backend, there many sections in configuration file
 
         loginExpire**: it is the time out of user. the default is 1 day.. You can select other.
 
-         .. code-block:: json
+        .. code-block:: json
 
                     "appSettings": {
                         "secretKey": "you can ignore it if don't want to change",
@@ -117,6 +117,28 @@ It is simply to configuration backend, there many sections in configuration file
                         }
 
 
+Start and restart 
+-----------------
+
+    After you have done all part. You are almost done. The last step is nunning it.
+
+    Run the command to start the backend.
+
+    .. code-block:: json
+
+                    pm2 start index.json --name "backend service"
+
+    Run the command to restart the backend if need
+
+    .. code-block:: json
+
+                    pm2 restart [index]
+
+    *[index]* can find by ``pm2 list``
+
+    .. tip::
+
+            You can learn more about pm2 by following the `link <http://pm2.keymetrics.io/docs/usage/quick-start/>`_.
 
 
 
