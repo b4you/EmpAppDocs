@@ -2,6 +2,6 @@
 Introduction
 ============
 
-The backend developed on `nodejs <https://nodejs.org/en/>`_ and `mysql server <https://www.mysql.com/>`_.
+The backend developed on `nodejs <https://nodejs.org/en/>`_ and `MariaDB <https://mariadb.org/>`_.
 
-The mobile app and the web admin will use all the APIs in the backend.
+The mobile app and the web admin are used all the APIs in the backend.

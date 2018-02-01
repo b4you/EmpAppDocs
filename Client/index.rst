@@ -1,7 +1,14 @@
-B4Y App
+.. _client_app:
+
+B4Y App |version| Documentation
 ----------------------------
 
-Neos is a free enterprise web content management system licensed under the GPL.
+B4Y App is internal social network for all member of Business4You.
+
+.. figure:: Resources/Images/Overview.png
+   :alt: Overview
+   :scale: 25 %
+
 
 This version of the documentation covering B4Y App |release| has been rendered at: |today|
 
@@ -12,4 +19,9 @@ This version of the documentation covering B4Y App |release| has been rendered a
    MainFeed/index
    Search/index
    Profile/index
-   Post/index
+   Post/index   
+   
+Indices and tables
+==================
+
+* :ref:`genindex`
