@@ -76,11 +76,11 @@ Configuration consist of default and production. When it is in production enviro
 
 It is simply to configuration backend, there many sections in configuration file.
 
-    *   **AppSettings: it is basic configuration for application**
+    *   AppSettings: it is basic configuration for application
 
-        **restAPIPort**: the port of the backend.
+        restAPIPort: the port of the backend.
 
-        **loginExpire**: it is the time out of user. the default is 1 day.. You can select other.
+        loginExpire**: it is the time out of user. the default is 1 day.. You can select other.
 
          .. code-block:: json
 
@@ -96,17 +96,17 @@ It is simply to configuration backend, there many sections in configuration file
                 Keep if as default if you don't want to change.
 
 
-    *   **Database:** the configuration for database server (MariaBD)
+    *   Database: the configuration for database server (MariaBD)
 
-    *   **ADSettings was mentioned above.**
+    *   ADSettings was mentioned above.
 
-    *   **AppVersion:** When the mobile app has new release, it will be upload to the folder and user can install new version.
+    *   AppVersion: When the mobile app has new release, it will be upload to the folder and user can install new version.
 
-        **defaultName**: the intaller file name.
+        defaultName: the intaller file name.
 
-        **uploadFolder**: the folder for uploaded intaller file.
+        uploadFolder: the folder for uploaded intaller file.
 
-        **downloadLink**: the link user can access and dowload new release.
+        downloadLink: the link user can access and dowload new release.
 
         .. code-block:: json
 
