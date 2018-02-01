@@ -19,11 +19,11 @@ You can visit `Nodejs official website <https://nodejs.org/en/>`_ and `MariaDB <
 
 Fundamental Installation
 ------------------------
+.. note::
+
+        The backend requires ffmpeg and sharp plugin for videos and image processing.
 
 #.  First you need to install ffmpeg to settle all videos before store it in server. You can download it in `official website <https://ffmpeg.org/>`_
-
-.. note::
-        The backend requires ffmpeg and sharp plugin for videos and image processing.
 
     Please follow the `link <https://github.com/fluent-ffmpeg/node-fluent-ffmpeg>`_ to install ffmpeg can run with nodejs.
 
