@@ -48,8 +48,6 @@ Fundamental Installation
         AD API will check the ``clientId`` when is receive a request, if the ``clientId`` match with the Id in config file the request is validate. Otherwise, it will failed.
         In Web.config, at ``<appSettings>`` section, change ``clientId`` with whatever ``clientId`` you want.
 
-        example:
-        
         .. code-block:: apache
                 <add key="clientId" value="here is the key"/>
 
