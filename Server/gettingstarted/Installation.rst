@@ -64,15 +64,15 @@ Fundamental Installation
                                     "isUsing": true,
                                     "url": "the hosting of AD API",
                                     "port": port of the host (it is a number),
-                                    "clientId": "here is the cliendId that define in AD API"
+                                    "clientId": "here is the cliendId that defined in AD API"
                                 }
 
 Setup backend
 -------------
 
-Backend has 2 environment, one for testing environment and the other is production environment. It can enable or disable production in ``index.js``. Just comment out the code ``process.env.NODE_ENV = "production";`` to run it in testing environment.
+Backend has 2 environments, one for testing and the other is for production. It can enable or disable production in ``index.js``. Just comment out the code ``process.env.NODE_ENV = "production";`` to run it in testing environment.
 
-Configuration consist of default and production. When it is in production environment, some of configuration sections in the production will be used.
+Configuration consist of default and production. When it is in production environment, some of configuration sections in the default will be replaced by production.
 
 It is simply to configuration backend, there many sections in configuration file.
 
