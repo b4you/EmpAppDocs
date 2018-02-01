@@ -9,4 +9,3 @@ This version of the documentation covering B4Y App |release| has been rendered a
    :maxdepth: 2
 
    gettingstarted/index
-   APIs/index
