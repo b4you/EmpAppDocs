@@ -50,8 +50,8 @@ Fundamental Installation
         In Web.config, at ``<appSettings>`` section, change ``clientId`` with whatever ``clientId`` you want.
 
         .. code-block:: apache
-        
-                <add key="clientId" value="here is the key"/>
+
+                <add key="clientId" value="here is the cliendId"/>
 
     * Configuration AD in backend:
 
@@ -60,11 +60,11 @@ Fundamental Installation
         .. code-block:: json
 
                         "ADSettings": {
-                        "isUsing": true,
-                        "url": "the hosting of AD API",
-                        "port": port of the host (it is a number),
-                        "clientId": "here is the key that config in AD API"
-                    }
+                                    "isUsing": true,
+                                    "url": "the hosting of AD API",
+                                    "port": port of the host (it is a number),
+                                    "clientId": "here is the key that config in AD API"
+                                }
 
 
 
