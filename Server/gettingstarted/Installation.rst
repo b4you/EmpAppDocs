@@ -38,7 +38,7 @@ Fundamental Installation
 
 #.  Setup and config active directory (AD).
 
-    User authentication will call AD API to verify all users when they are trying to login by mobile or website and users have a role base on AD Group. 
+    User authentication will call AD API to verify all users when they are trying to login by mobile or website. 
     So, the backend will connect to AD and get user account and user group. 
 
     AD API run on internet infomation services (IIS). It is installed as normal website in IIS.
