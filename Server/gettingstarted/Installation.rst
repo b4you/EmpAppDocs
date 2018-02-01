@@ -36,27 +36,39 @@ Fundamental Installation
 
             Just follow the `Prerequisites <http://sharp.dimens.io/en/stable/install/#prerequisites>`_ in the `link <http://sharp.dimens.io/en/stable/install/>`_
 
-#.  Push notification.
+#.  Setup and config active directory (AD) API.
 
-    The mobile part will have push notification. The backend use `OneSignal <https://onesignal.com/>`_ to handle it. Just come to the `OneSignal website <https://onesignal.com/>`_. Register a free account and reconfig in the configuaraion file in backend
+    User authentication will call AD API to verify all users when they are trying to login by mobile or website and users have a role base on AD Group. 
+    So, the backend will connect to AD and get user account and user group. 
 
-    .. tip::
+    AD API run on internet infomation services (IIS). It is installed as normal website in IIS.
 
-            OneSignal is a free push notification service designed for multiple platform. 
+    * Configuration in AD API:
 
-    In ``default.json`` file of backend. At the ``OneSignal`` configuaraion. Fill in all infomation.
-    
-    *   Example:
+        AD API will check the ``clientId`` when is receive a request, if the ``clientId`` match with the Id in config file the request is validate. Otherwise, it will failed.
+        In Web.config, at ``<appSettings>`` section, change ``clientId`` with whatever ``clientId`` you want.
 
-    .. code-block:: json
+        example:
+        
+        .. code-block:: apache
+                <add key="clientId" value="here is the key"/>
 
-                        "OneSignal": {
-                            "applicationId": "98dfd099-454d-44d3-g1ed-373845040",
-                            "BaseURL": "/api/v1/",
-                            "Authorization": "Basic NLKJLKjldskldaskldiorewioMLKIdsdkfiur",
-                            "host": "onesignal.com",
-                            "port": 443
-                        }
+    * Configuration AD in backend:
+
+        You just use the ``clientId`` in the AD API
+
+        .. code-block:: json
+
+                        "ADSettings": {
+                        "isUsing": true,
+                        "url": "the hosting of AD API",
+                        "port": port of the host (it is a number),
+                        "clientId": "here is the key that config in AD API"
+                    }
+
+
+
+
 
 
 
