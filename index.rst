@@ -1,18 +1,20 @@
-B4Y App |version| Documentation
-----------------------------
+.. empappdoc documentation master file, created by
+   sphinx-quickstart on Thu Feb 01 09:48:12 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-Neos is a free enterprise web content management system licensed under the GPL.
-
-This version of the documentation covering B4Y App |release| has been rendered at: |today|
+Welcome to empappdoc's documentation!
+=====================================
 
 .. toctree::
    :maxdepth: 2
-      
-   Client/index
-   WebAdmin/index
-   Server/index
-   
+   :caption: Contents:
+
+
+
 Indices and tables
 ==================
 
 * :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
