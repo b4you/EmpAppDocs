@@ -1,3 +1,5 @@
+.. _client_app:
+
 B4Y App |version| Documentation
 ----------------------------
 
