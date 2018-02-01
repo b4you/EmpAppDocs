@@ -67,7 +67,7 @@ Fundamental Installation
                                     "clientId": "here is the cliendId that define in AD API"
                                 }
 
-Configuration
+Setup backend
 -------------
 
 Backend has 2 environment, one for testing environment and the other is production environment. It can enable or disable production in ``index.js``. Just comment out the code ``process.env.NODE_ENV = "production";`` to run it in testing environment.
