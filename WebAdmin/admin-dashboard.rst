@@ -1,5 +1,5 @@
 ==========
-dashboard
+Dashboard
 ==========
 
 the web admin dashboard
