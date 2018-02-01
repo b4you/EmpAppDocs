@@ -27,22 +27,36 @@ Fundamental Installation
 
     Please follow the `link <https://github.com/fluent-ffmpeg/node-fluent-ffmpeg>`_ to install ffmpeg can run with nodejs.
 
+
 #.  Backend need to process uploading image and save it. So, it use sharp plugin to do image processing.
 
     Please follow the `link <http://sharp.dimens.io/en/stable/install/>`_ to install environment for it.
 
-.. tip::
+    .. tip::
 
-        Just follow the `Prerequisites <http://sharp.dimens.io/en/stable/install/#prerequisites>`_ in the `link <http://sharp.dimens.io/en/stable/install/>`_
+            Just follow the `Prerequisites <http://sharp.dimens.io/en/stable/install/#prerequisites>`_ in the `link <http://sharp.dimens.io/en/stable/install/>`_
 
-#.  Push notification processing
+#.  Push notification.
 
-    The mobile part will have push notification. 
-    The backend use `OneSignal <https://onesignal.com/>`_ to handle it. Just come to the `OneSignal website <https://onesignal.com/>`_. Register an account and reconfig in the configuaraion file in backend
+    The mobile part will have push notification. The backend use `OneSignal <https://onesignal.com/>`_ to handle it. Just come to the `OneSignal website <https://onesignal.com/>`_. Register a free account and reconfig in the configuaraion file in backend
 
-.. tip::
+    .. tip::
 
-        OneSignal is a free push notification service designed for multiple platform. 
+            OneSignal is a free push notification service designed for multiple platform. 
+
+    In ``default.json`` file of backend. At the ``OneSignal`` configuaraion. Fill in all infomation.
+    
+    *   Example:
+
+    .. code-block:: json
+
+                        "OneSignal": {
+                            "applicationId": "98dfd099-454d-44d3-g1ed-373845040",
+                            "BaseURL": "/api/v1/",
+                            "Authorization": "Basic NLKJLKjldskldaskldiorewioMLKIdsdkfiur",
+                            "host": "onesignal.com",
+                            "port": 443
+                        }
 
 
 
