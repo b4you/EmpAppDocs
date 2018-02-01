@@ -80,7 +80,7 @@ It is simply to configuration backend, there many sections in configuration file
     *   AppSettings: it is basic configuration for application
 
         *restAPIPort*: the port of the backend.
-        
+
         *loginExpire*: it is the time out of user. the default is 1 day.. You can select other.
 
          .. code-block:: json
@@ -91,6 +91,11 @@ It is simply to configuration backend, there many sections in configuration file
                         "restAPIPort": "it is the port of the backend will run on",
                         "loginExpire": "1d" // 1d, 10h, 2.5 hrs, 2 days, 1m, 5s, 1y, 100 (time formats to milliseconds)
                     }
+
+        .. tip::
+
+                Keep if as default if you dont want to change.
+
 
     *   Database: the configuration for database server (MariaBD)
 
