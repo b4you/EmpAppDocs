@@ -25,6 +25,7 @@ User interface basic
 
     For instance: when the user access to "Users" the main view will show the user list.
 
+
 #.   Mini menu
 
     User can change the website color here.
