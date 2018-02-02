@@ -37,11 +37,11 @@ User interface basic
    :scale: 50 %
 
    1. The logged in user information.
-   
+     
    2. The dashboard link.
-   
+     
    3. The user management.
-   
+     
    4. The group management.
    
    5. The category management.
