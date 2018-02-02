@@ -75,9 +75,9 @@ User interface basic
 
 #. Turn on/off image of sidebar.
 
-#.Show minimum/maximum sidebar.
+#. Show minimum/maximum sidebar.
 
-#.Color option of web view.
+#. Color option of web view.
 
-#.The image of sidebar.
+#. The image of sidebar.
     
