@@ -59,7 +59,6 @@ User interface basic
 .. figure:: ../Resources/Images/navigation.png
    :alt: interface_basic
    :scale: 50 %
-
     The minimum/maximum sidebar button.
     
     2.The current view name.    
@@ -70,7 +69,6 @@ User interface basic
 
 3. Mini menu
 -----------------------
-
 .. figure:: ../Resources/Images/minimenu.png
    :alt: interface_basic
    :scale: 50 %
