@@ -22,7 +22,6 @@ User interface basic
 #.  Main view
 
     Depending on the current view. 
-
     For instance: when the user access to "Users" the main view will show the user list.
 
 #.  Mini menu
@@ -62,11 +61,8 @@ User interface basic
    :scale: 50 %
 
     1.The minimum/maximum sidebar button.
-    
-    2.The current view name.
-    
+    2.The current view name.    
     3.The shortcut to the dashboard.
-    
     4.The logout button.
 
 3. Mini menu
