@@ -60,9 +60,12 @@ User interface basic
    :alt: interface_basic
    :scale: 50 %
 
-    1.The minimum/maximum sidebar button.
+    The minimum/maximum sidebar button.
+    
     2.The current view name.    
+    
     3.The shortcut to the dashboard.
+    
     4.The logout button.
 
 3. Mini menu
@@ -72,7 +75,7 @@ User interface basic
    :alt: interface_basic
    :scale: 50 %
 
-    1.Turn on/off image of sidebar.
+    Turn on/off image of sidebar.
     
     2.Show minimum/maximum sidebar.
     
