@@ -11,3 +11,18 @@ User interface basic
    :alt: interface_basic
    :scale: 50 %
 
+#   Side bar
+
+    Side bar is a menu, that contains all functions of the website.
+
+#   Navigation bar
+
+    It contains the shortcut button and the current view name.
+
+ #  Main view
+
+    Depending on the current view. for instance: when the user access to "Users" the main view will show the user list.
+
+#   Mini menu
+
+    It contains the theming function.
