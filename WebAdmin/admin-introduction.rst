@@ -69,6 +69,7 @@ User interface basic
 
 3. Mini menu
 -----------------------
+
 .. figure:: ../Resources/Images/minimenu.png
    :alt: interface_basic
    :scale: 50 %
