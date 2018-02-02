@@ -36,8 +36,7 @@ User interface basic
    :alt: interface_basic
    :scale: 50 %
 
-   1.The logged in user information.
-   
+   1. The logged in user information.   
    2.The dashboard link.
    
    3.The user management.
