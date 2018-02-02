@@ -27,4 +27,4 @@ User interface basic
 
 #.   Mini menu
 
-    It contains the theming function.
+    User can change the website color here.
