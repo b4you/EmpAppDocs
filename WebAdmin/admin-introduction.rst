@@ -36,25 +36,24 @@ User interface basic
    :alt: interface_basic
    :scale: 50 %
 
-   1. The logged in user information.
+   1.The logged in user information.
+   
+   2.The dashboard link.
      
-   2. The dashboard link.
+   3.The user management.
      
-   3. The user management.
-     
-   4. The group management.
+   4.The group management.
    
-   5. The category management.
+   5.The category management.
    
-   6. The style management.
+   6.The style management.
    
-   7. The position management.
+   7.The position management.
    
-   8. The application version history list.
+   8.The application version history list.
    
-   9. The uploading new release for mobile application.
+   9.The uploading new release for mobile application.
    
-
 2. Navigation bar
 -----------------------
 
@@ -62,13 +61,13 @@ User interface basic
    :alt: interface_basic
    :scale: 50 %
 
-    1. The minimum/maximum sidebar button.
+    1.The minimum/maximum sidebar button.
     
-    2. The current view name.
+    2.The current view name.
     
-    3. The shortcut to the dashboard.
+    3.The shortcut to the dashboard.
     
-    4. The logout button.
+    4.The logout button.
 
 3. Mini menu
 -----------------------
@@ -77,11 +76,11 @@ User interface basic
    :alt: interface_basic
    :scale: 50 %
 
-    1. Turn on/off image of sidebar.
+    1.Turn on/off image of sidebar.
     
-    2. Show minimum/maximum sidebar.
+    2.Show minimum/maximum sidebar.
     
-    3. Color option of web view.
+    3.Color option of web view.
     
-    4. The image of sidebar.
+    4.The image of sidebar.
     
