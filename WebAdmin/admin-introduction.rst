@@ -7,7 +7,7 @@ The backend web admin is a website. It can be run on almost common browser, such
 User interface basic
 ----------------------
 
-.. image:: ../Resources/Images/interface_basic.png
+.. figure:: ../Resources/Images/interface_basic.png
    :alt: interface_basic
    :scale: 50 %
 
@@ -22,6 +22,7 @@ User interface basic
 #.  Main view
 
     Depending on the current view. 
+
     For instance: when the user access to "Users" the main view will show the user list.
 
 #.   Mini menu
