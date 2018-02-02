@@ -36,22 +36,23 @@ User interface basic
    :alt: interface_basic
    :scale: 50 %
 
-   1. The logged in user information.   
-   2.The dashboard link.
+   1. The logged in user information.
    
-   3.The user management.
+   2. The dashboard link.
    
-   4.The group management.
+   3. The user management.
    
-   5.The category management.
+   4. The group management.
    
-   6.The style management.
+   5. The category management.
    
-   7.The position management.
+   6. The style management.
    
-   8.The application version history list.
+   7. The position management.
    
-   9.The uploading new release for mobile application.
+   8. The application version history list.
+   
+   9. The uploading new release for mobile application.
    
 
 2. Navigation bar
