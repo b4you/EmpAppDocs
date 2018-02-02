@@ -7,7 +7,7 @@ The backend web admin is a website. It can be run on almost common browser, such
 User interface basic
 ----------------------
 
-.. image:: /Resources/Images/interface_basic.png
+.. image:: ../Resources/Images/interface_basic.png
    :alt: interface_basic
    :scale: 50 %
 
