@@ -53,7 +53,7 @@ This section show all the post of 24h. The user can review the post's content, t
 Top 10 posts section
 -----------------------
 
-.. figure:: ../Resources/Images/top10post.png
+.. figure:: ../Resources/Images/top10post.PNG
    :alt: interface_basic
    :scale: 100 %
 
@@ -62,7 +62,7 @@ Administrator can see the top 10 post with highest number of like, comment, book
 Post create by time section
 -------------------------------
 
-.. figure:: ../Resources/Images/posted.png
+.. figure:: ../Resources/Images/posted.PNG
    :alt: interface_basic
    :scale: 100 %
 
@@ -71,7 +71,7 @@ Administrator can see the chart with number of post by time week, month, year an
 Top 10 user section
 -------------------------------
 
-.. figure:: ../Resources/Images/top10user.png
+.. figure:: ../Resources/Images/top10user.PNG
    :alt: interface_basic
    :scale: 100 %
 
@@ -80,7 +80,7 @@ Administrator can see the list of active members with highest number of like, co
 Top 10 hashtag section
 -------------------------------
 
-.. figure:: ../Resources/Images/hashtag.png
+.. figure:: ../Resources/Images/hashtag.PNG
    :alt: interface_basic
    :scale: 100 %
 
