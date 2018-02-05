@@ -9,7 +9,7 @@ User list
    :alt: interface_basic
    :scale: 50 %
 
-This is a list of user of the system. The administrator can view user detail, edit user profile and assign the user to a group or many groups.
+This is a list of user in the system. The administrator can view user detail, edit user profile and assign the user to a group or many groups.
 
 #. The list of active users.
 #. The list of deactive users who nolonger use application anymnore.
@@ -37,4 +37,4 @@ The editing user profile form, the administrator can change some basic infomatio
    :alt: interface_basic
    :scale: 100 %
 
-A user have to have agroup. Each group have a specific privilege. So that user have limitaion on the mobile application.
+A user has to belong to a group or many groups. Each group have a specific privilege. So that users have a limitaion on the mobile application.
