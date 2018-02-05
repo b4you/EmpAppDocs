@@ -19,11 +19,33 @@ This section show all the post of 24h. The user can review the post's content, t
 #. Delete button. The administrator can delete the post.
 
 1. Report view
--------------------
 
 .. figure:: ../Resources/Images/reportview.png
    :alt: interface_basic
+   :scale: 100 %
+
+#. The reporter list and content of reports.
+#. The administrator can write a reason when they do an action (mark as review or delete the post) .
+#. Administrator can view the detail by "Go to post detail" button.
+#. Close report view form.
+#. If there is no bad content, administrator can mark it as viewed and the report wont show again.
+#. After review the post, if there is a bad content, administrator can delete it.
+
+2. Detail view
+
+.. figure:: ../Resources/Images/view.png
+   :alt: interface_basic
    :scale: 50 %
 
-#. The reporter list and content of report.
-#. When the 
+#. Content detail.
+#. Go to report view.
+#. Go to delete view.
+
+3. Delete view
+
+.. figure:: ../Resources/Images/delete.png
+   :alt: interface_basic
+   :scale: 50 %
+
+#. Administrator can leave comment when they delete a post.
+#. Delete button.
