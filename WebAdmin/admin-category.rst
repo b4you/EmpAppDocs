@@ -5,7 +5,7 @@ Category
 Category list
 --------------
 
-.. figure:: ../Resources/Images/userlist.png
+.. figure:: ../Resources/Images/category_list.png
    :alt: interface_basic
    :scale: 100 %
 
