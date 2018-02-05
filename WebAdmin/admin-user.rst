@@ -17,7 +17,8 @@ This is a list of user in the system. The administrator can view user detail, ed
 #. Assigning group form.
 #. Delete button.
 
-1. View and edit user profile.
+View and edit user profile.
+------------------------------------------
 
 .. figure:: ../Resources/Images/userview.png
    :alt: interface_basic
@@ -31,7 +32,8 @@ The overview of user profile.
 
 The editing user profile form, the administrator can change some basic infomation of user.
 
-2. Assigning group
+Assigning group
+---------------------
 
 .. figure:: ../Resources/Images/usergroup.png
    :alt: interface_basic

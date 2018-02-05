@@ -19,6 +19,7 @@ This is a list of group in system. The administrator can create, delete or edit 
 
 
 Create/Edit a group
+---------------------
 
 .. figure:: ../Resources/Images/group_edit.png
    :alt: interface_basic
@@ -35,6 +36,7 @@ If the application need to has more or change a group infomation, administrator 
 #. Save button.
 
 Sync AD group 
+---------------------
 
 .. figure:: ../Resources/Images/group_sync.png
    :alt: interface_basic
