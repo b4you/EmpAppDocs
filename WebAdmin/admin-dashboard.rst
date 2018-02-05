@@ -13,8 +13,8 @@ This section show all the post of 24h. The user can review the post's content, t
    :alt: interface_basic
    :scale: 50 %
 
-#. The reported indicator. If the posts have bad content, and someone report the posts, the indicator will be showed to indicate to administrator see and have the action with the posts.
-#. Show report button. The button will be showed when the post has been reported by the user. The administrator can take a look at the content of the report.
+#. The reported indicator, if the posts have bad content, and someone report the posts, the indicator will be showed to indicate to administrator see and have the action with the posts.
+#. Show report view button. The button will be showed when the post has been reported by the user. The administrator can take a look at the content of the report.
 #. The administrator can see all of content of the post.
 #. Delete button. The administrator can delete the post.
 
