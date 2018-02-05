@@ -35,7 +35,7 @@ This section show all the post of 24h. The user can review the post's content, t
 
 .. figure:: ../Resources/Images/view.png
    :alt: interface_basic
-   :scale: 50 %
+   :scale: 100 %
 
 #. Content detail.
 #. Go to report view.
@@ -45,7 +45,43 @@ This section show all the post of 24h. The user can review the post's content, t
 
 .. figure:: ../Resources/Images/delete.png
    :alt: interface_basic
-   :scale: 50 %
+   :scale: 100 %
 
 #. Administrator can leave comment when they delete a post.
 #. Delete button.
+
+Top 10 posts section
+-----------------------
+
+.. figure:: ../Resources/Images/top10post.png
+   :alt: interface_basic
+   :scale: 100 %
+
+Administrator can see the top 10 post with highest number of like, comment, bookmark and view.
+
+Post create by time section
+-------------------------------
+
+.. figure:: ../Resources/Images/posted.png
+   :alt: interface_basic
+   :scale: 100 %
+
+Administrator can see the chart with number of post by time week, month, year and all the time.
+
+Top 10 user section
+-------------------------------
+
+.. figure:: ../Resources/Images/top10user.png
+   :alt: interface_basic
+   :scale: 100 %
+
+Administrator can see the list of active members with highest number of like, comment, created tag and post.
+
+Top 10 hashtag section
+-------------------------------
+
+.. figure:: ../Resources/Images/hashtag.png
+   :alt: interface_basic
+   :scale: 100 %
+
+There is a list of newest hashtag and the list of hashtag use mostly. So, the administrator can have an overview about it.
