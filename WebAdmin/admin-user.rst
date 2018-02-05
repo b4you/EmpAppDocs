@@ -32,7 +32,7 @@ The overview of user profile.
 
 The editing user profile form, the administrator can change some basic infomation of user.
 
-Assigning group
+Assign group
 ---------------------
 
 .. figure:: ../Resources/Images/usergroup.png
