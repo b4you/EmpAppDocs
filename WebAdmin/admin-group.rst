@@ -40,4 +40,4 @@ Sync AD group
    :alt: interface_basic
    :scale: 100 %
 
-When clicking in "AD group sysnc" button, the sysnc form will be show. the administrator just input username and password then click sync button.
+When clicking in "AD group sysnc" button, the sysnc form will be show. the administrator just input username and password then click sync button. If there are new AD groups, the new groups will appear in the AD group list at editing form.
