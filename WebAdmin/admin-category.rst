@@ -2,6 +2,8 @@
 Category
 ========
 
+When user create new post, they can select which category the post belong to and the users have to have permission to create to that category.
+
 Category list
 --------------
 
