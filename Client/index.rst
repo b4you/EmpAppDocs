@@ -13,7 +13,7 @@ B4Y App is internal social network for all member of Business4You.
 This version of the documentation covering B4Y App |release| has been rendered at: |today|
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    Authentication/index
    MainFeed/index
