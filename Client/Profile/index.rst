@@ -15,4 +15,5 @@ There are two kind of profile page : your profile and other.
 
     Profile page
 	Edit profile
+    
 

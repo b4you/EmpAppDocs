@@ -16,7 +16,7 @@ Search result is placed in two tag: tag and user.
    :scale: 50 %
 
 When user click on result item:
-- Tag: application navigate to main feed and shows all posts have that tag.
-- User: application navigate to user profile.
+    - Tag: application navigate to main feed and shows all posts have that tag.    
+    - User: application navigate to user profile.
 
 
