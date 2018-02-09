@@ -20,6 +20,7 @@ This version of the documentation covering B4Y App |release| has been rendered a
    Search/index
    Profile/index
    Post/index   
+   Notification/index
    
 Indices and tables
 ==================

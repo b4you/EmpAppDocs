@@ -36,7 +36,7 @@ Create post
 (6) Add video to post. Maximum 3 video, 100 per video.
 
 (7) Tag: click on this line to open tag dialog.Input text and press space to add new tags. 
-App will search exist tag in system and show on the list. User can add or remove tag by select item on the list.
+    App will search exist tag in system and show on the list. User can add or remove tag by select item on the list.
 
 .. figure:: ../Resources/Images/Add_Tag.jpg
    :alt: Tag

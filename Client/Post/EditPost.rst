@@ -4,8 +4,9 @@
 Edit post
 ====================
 
-.. figure:: ./Resources/Images/Login.jpg
+.. figure:: ../Resources/Images/Create_Post.jpg
    :alt: Login Screen
    :scale: 50 %
 
-Fill in you account and password to login. The account is email or your AD account.
+All post data will be loaded. User can change everything in post.
+The exception key is sharing post. User can remove share post and select new sharing post.
