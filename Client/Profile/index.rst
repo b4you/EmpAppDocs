@@ -21,7 +21,7 @@ There are two kind of profile page : your profile and other.
 1. Your profile
 -----------------------------
 
-.. figure:: ./Resource/Images/Profile_explaint.jpg
+.. figure:: ./Resources/Images/Profile_explaint.jpg
    :alt: Profile Screen
    :scale: 50 %
 
@@ -39,7 +39,7 @@ This screen shows all infomation belong to user.
 2. Other's profile
 -----------------------------
 
-.. figure:: ./Resource/Images/Profile_Other_Explain.jpg
+.. figure:: ./Resources/Images/Profile_Other_Explain.jpg
    :alt: Profile other Screen
    :scale: 50 %
 
