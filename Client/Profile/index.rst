@@ -5,7 +5,7 @@ Profile
 ====================
 There are two kind of profile page : your profile and other.
 
-.. figure:: ../Resource/Images/Profile_Overview.jpg
+.. figure:: ../Resources/Images/Profile_Overview.jpg
    :alt: Profile Screen
    :scale: 50 %
 
@@ -13,7 +13,7 @@ There are two kind of profile page : your profile and other.
 .. toctree::
 	:maxdepth: 2
 
-    Profile page
-	Edit profile
-    
+    Profile page    
+    Edit profile
+
 
