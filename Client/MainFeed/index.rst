@@ -12,7 +12,8 @@ This is the main screen after you login. All posts which are shared with you wil
 
 #. Filter bar
 #. Tab bar
-#. Post
+#. Posts
+#. Instant update
 
 
 
@@ -61,7 +62,7 @@ Tab tab also show number of unread notification.
 When user is at screens contain list of post such as main feed or profile, user can scroll up by double-click on corresponding icon.
 
 
-3. Post 
+3. Posts 
 -----------------------------
 
 - Scroll up to load older post.If there aren't post in cache, application will get data from server, the loading icon will be show and dismiss when loading finish.
@@ -70,4 +71,9 @@ When user is at screens contain list of post such as main feed or profile, user 
 .. figure:: ../Resources/Images/LoadingNewPost.jpg
    :alt: Loading Post
    :scale: 50 %
+
+4. Instant update
+------------------------------
+
+When someone likes or comments on your post, you will receive notification and that's post will be updated immedieatly.
 
