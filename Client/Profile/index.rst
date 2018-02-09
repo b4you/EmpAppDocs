@@ -9,6 +9,7 @@ There are two kind of profile page : your profile and other.
    :alt: Profile Screen
    :scale: 50 %
 
+
 .. toctree::
 	:maxdepth: 2
 
