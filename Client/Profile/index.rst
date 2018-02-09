@@ -13,8 +13,8 @@ It's place where you can manage your personal information and see others'.
 .. toctree::
 	:maxdepth: 2
 
-    Profile page    
-    Edit profile
+    YourProfile    
+    EditProfile
 
 
 #. Profile page
