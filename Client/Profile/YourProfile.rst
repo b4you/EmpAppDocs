@@ -1,11 +1,11 @@
 .. _your_profile:
 
 ====================
-Profile
+Profile Page
 ====================
 There are two kind of profile page : your profile and other.
 
-.. figure:: ../Resource/Images/Profile_Overview.jpg
+.. figure:: ../Resources/Images/Profile_Overview.jpg
    :alt: Profile Screen
    :scale: 50 %
 
@@ -28,7 +28,7 @@ This screen shows all infomation belong to user.
  (6) Logout button: log out of application.
  (7) Tab shows all your posts.
  (8) Tab shows all your saved posts.
- (9) Post list.
+ (9) Post list: scroll up to load older post. Scroll down and hold a litle then release to load new post and refresh loaded post.
 
 2. Other's profile
 -----------------------------
