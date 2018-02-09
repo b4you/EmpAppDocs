@@ -5,7 +5,7 @@ Edit Profile
 ====================
 User can update their personal infomation and setting at this screen.
 
-.. figure:: ./Resources/Images/EditProfile.jpg
+.. figure:: ../Resources/Images/EditProfile.jpg
    :alt: Profile Screen
    :scale: 50 %
 
@@ -17,7 +17,7 @@ User can update their personal infomation and setting at this screen.
 1. Overview
 -----------------------------
 
-.. figure:: ./Resources/Images/EditProfile_Explain.jpg
+.. figure:: ../Resources/Images/EditProfile_Explain.jpg
    :alt: Profile Screen
    :scale: 50 %
 
@@ -40,14 +40,14 @@ User can update their personal infomation and setting at this screen.
 
 User can add/remove and allow other can reach them via contact information they added.
 
-.. figure:: ./Resources/Images/EditProfile_ContactInfo.jpg
+.. figure:: ../Resources/Images/EditProfile_ContactInfo.jpg
    :alt: Profile Screen
    :scale: 50 %
 
 (1) Toogle button: show/hide phone infomation in their profile page. 
     When user hides those information, call or email button will be disable in thier profile page.
 
-    .. figure:: ./Resources/Images/Profile_Other.jpg
+    .. figure:: ../Resources/Images/Profile_Other.jpg
     :alt: Profile Screen
     :scale: 50 %
 (2) Phone list: user can remove phone by click on (x) button.

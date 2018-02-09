@@ -4,14 +4,14 @@
 Search
 ====================
 
-.. figure:: ./Resources/Images/Search.jpg
+.. figure:: ../Resources/Images/Search.jpg
    :alt: Search Screen
    :scale: 50 %
 
 User can search people or tag by filling in input. The searching starts after user stop typing. The searching string is at least 2 characters.
 Search result is placed in two tag: tag and user.
 
-.. figure:: ./Resources/Images/Search_Result.jpg
+.. figure:: ../Resources/Images/Search_Result.jpg
    :alt: Search result
    :scale: 50 %
 
