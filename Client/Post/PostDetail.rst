@@ -5,7 +5,7 @@ Post detail
 ====================
 Show post content, include comment,interaction.
 
-.. figure:: ../Resources/Images/Post_Detail.jpg
+.. figure:: ../Resources/Images/Post_Detail_Exp.jpg
    :alt: Post Detail
    :scale: 50 %
 
